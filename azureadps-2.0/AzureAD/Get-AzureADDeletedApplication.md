@@ -53,7 +53,7 @@ ObjectId                             AppId                                Displa
 79592454-dea7-4660-9d91-f1768e5055ac feabcdd1-711a-4d55-ad5e-0d0577aaaa5e analog
 ```
 
-This example shows how an existing application was deleted and how the G-AzureADDeletedApplication cmdlet retrieves the application from the list of deleted applications
+This example shows how an existing application was deleted and how the Get-AzureADDeletedApplication cmdlet retrieves the application from the list of deleted applications
 
 ## PARAMETERS
 
